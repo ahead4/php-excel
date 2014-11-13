@@ -19,8 +19,8 @@
   "target-dir": "PHPExcel",
   "autoload": {
         "psr-0": {
-            "PHPExcel": "PHPExcel”,
-	        "files": ["PHPExcel.php"]
-        }
+            "PHPExcel": "PHPExcel"
+        },
+        "files": ["PHPExcel.php"]
     }
 }
