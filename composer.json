@@ -20,6 +20,7 @@
   "autoload": {
         "psr-0": {
             "PHPExcel": "PHPExcel"
-        }
+        },
+        "files": ["PHPExcel.php"]
     }
 }
